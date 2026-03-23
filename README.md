@@ -1,3 +1,11 @@
+# blackroad-crm
+
+> Customer relationship management system
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-Foundation](https://github.com/BlackRoad-Foundation)
+
+---
+
 # BlackRoad CRM
 
 > Customer Relationship Management system — SQLite-backed, zero-dependency Python.
